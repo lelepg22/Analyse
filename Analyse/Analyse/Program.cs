@@ -46,7 +46,7 @@ namespace Analyse
                   moviesAndTitle.Add(theMovie[0][1]);
                 }
 
-                Console.WriteLine("Acteur/trice : " + plusRoleActeurs[i].Key + " played in : " + plusRoleActeurs[i].Count() + ": Participations ----- >");
+                Console.WriteLine("Acteur/trice : " + plusRoleActeurs[i].Key + " played in : " + plusRoleActeurs[i].Count() + " movies : Participations ----- >");
                 for(int f = 0; f < moviesAndTitle.Count(); f++)
                 {
                     Console.WriteLine(moviesAndTitle[f]);
