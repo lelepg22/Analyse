@@ -1,0 +1,16 @@
+C:\Users\Administrateur\source\repos\exercice weekend 1106\Analyse\Analyse\Analyse\bin\Debug\net5.0\Analyse.exe
+C:\Users\Administrateur\source\repos\exercice weekend 1106\Analyse\Analyse\Analyse\bin\Debug\net5.0\Analyse.deps.json
+C:\Users\Administrateur\source\repos\exercice weekend 1106\Analyse\Analyse\Analyse\bin\Debug\net5.0\Analyse.runtimeconfig.json
+C:\Users\Administrateur\source\repos\exercice weekend 1106\Analyse\Analyse\Analyse\bin\Debug\net5.0\Analyse.runtimeconfig.dev.json
+C:\Users\Administrateur\source\repos\exercice weekend 1106\Analyse\Analyse\Analyse\bin\Debug\net5.0\Analyse.dll
+C:\Users\Administrateur\source\repos\exercice weekend 1106\Analyse\Analyse\Analyse\bin\Debug\net5.0\ref\Analyse.dll
+C:\Users\Administrateur\source\repos\exercice weekend 1106\Analyse\Analyse\Analyse\bin\Debug\net5.0\Analyse.pdb
+C:\Users\Administrateur\source\repos\exercice weekend 1106\Analyse\Analyse\Analyse\obj\Debug\net5.0\Analyse.csproj.AssemblyReference.cache
+C:\Users\Administrateur\source\repos\exercice weekend 1106\Analyse\Analyse\Analyse\obj\Debug\net5.0\Analyse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\source\repos\exercice weekend 1106\Analyse\Analyse\Analyse\obj\Debug\net5.0\Analyse.AssemblyInfoInputs.cache
+C:\Users\Administrateur\source\repos\exercice weekend 1106\Analyse\Analyse\Analyse\obj\Debug\net5.0\Analyse.AssemblyInfo.cs
+C:\Users\Administrateur\source\repos\exercice weekend 1106\Analyse\Analyse\Analyse\obj\Debug\net5.0\Analyse.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\exercice weekend 1106\Analyse\Analyse\Analyse\obj\Debug\net5.0\Analyse.dll
+C:\Users\Administrateur\source\repos\exercice weekend 1106\Analyse\Analyse\Analyse\obj\Debug\net5.0\ref\Analyse.dll
+C:\Users\Administrateur\source\repos\exercice weekend 1106\Analyse\Analyse\Analyse\obj\Debug\net5.0\Analyse.pdb
+C:\Users\Administrateur\source\repos\exercice weekend 1106\Analyse\Analyse\Analyse\obj\Debug\net5.0\Analyse.genruntimeconfig.cache
